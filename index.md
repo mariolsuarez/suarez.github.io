@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: M/S
-banner_subtitle: M/S's profesional webpage: an njit project
+banner_title: # Mario Suarez
+banner_subtitle: ## M/S's profesional webpage: an njit project
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
