@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
+title: Mario Suarez
 author: M/S
 description: > 
-  A professional webpage for M/S
-baseurl: "https://mariolsuarez.gihub.io/"
+  A professional webpage for M/S: An NJIT Project
+baseurl: "https://mariolsuarez.gihub.io/hello"
 
 plugins:
   - jekyll-feed
