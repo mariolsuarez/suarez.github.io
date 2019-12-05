@@ -4,8 +4,10 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: # Mario Suarez
-banner_subtitle: ## M/S's profesional webpage: an njit project
+
+banner_title: Mario Suarez
+banner_subtitle: about me and my professional work - an NJIT project
+
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -15,9 +17,10 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-github_username:  mariolsuarez
-
-
+twitter_username: latinorebel # # your twitter handle
+github_username:  mariolsuarez # your github username
+linkedin: mariolsuarez # the part after ("https://www.linkedin.com/in/...")
+# facebook_username: n/a <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.

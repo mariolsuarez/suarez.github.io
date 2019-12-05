@@ -5,7 +5,7 @@ title: Mario Suarez
 author: M/S
 description: > 
   A professional webpage for M/S: An NJIT Project
-baseurl: "https://mariolsuarez.gihub.io/hello"
+baseurl: ""
 
 plugins:
   - jekyll-feed
